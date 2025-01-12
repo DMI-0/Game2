@@ -1895,7 +1895,7 @@ Window_MenuCommand.prototype.addGameEndCommand = function() {
 };
 
 Window_MenuCommand.prototype.needsCommand = function(name) {
-    const table = ["item", "skill", "equip", "status", "formation", "save"];
+    const table = ["Item", "Skill", "Equip", "Status", "Party", "Save", "Quests"];
     const index = table.indexOf(name);
     if (index >= 0) {
         return $dataSystem.menuCommands[index];

@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"list":[{"code":357,"indent":0,"parameters":["MPP_MapLight","setCharLight","setCharLight",{"character":"0","radius":"2","colorIndex":"2","amplitude":"0"}]},{"code":657,"indent":0,"parameters":["character = 0"]},{"code":657,"indent":0,"parameters":["radius = 2"]},{"code":657,"indent":0,"parameters":["colorIndex = 2"]},{"code":657,"indent":0,"parameters":["amplitude = 0"]},{"code":0,"indent":0,"parameters":[]}],"name":"fire","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":121,"indent":0,"parameters":[1,1,1]},{"code":121,"indent":0,"parameters":[2,2,1]},{"code":121,"indent":0,"parameters":[4,4,1]},{"code":121,"indent":0,"parameters":[5,5,1]},{"code":121,"indent":0,"parameters":[6,6,1]},{"code":121,"indent":0,"parameters":[7,7,1]},{"code":121,"indent":0,"parameters":[10,10,1]},{"code":121,"indent":0,"parameters":[11,11,1]},{"code":121,"indent":0,"parameters":[12,12,1]},{"code":121,"indent":0,"parameters":[13,13,1]},{"code":121,"indent":0,"parameters":[14,14,1]},{"code":0,"indent":0,"parameters":[]}],"name":"scene off","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
